@@ -1,0 +1,8 @@
+spring:
+  config:
+    activate:
+      on-profile: local
+
+sampleProperties:
+  testKeyPerProfile: value local 
+

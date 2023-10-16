@@ -1,0 +1,12 @@
+server:
+  port: 8000
+
+app:
+  name: yml demo
+  
+spring:
+  profiles:
+    active: local
+
+sampleProperties:
+  testKeyCommon: value common
