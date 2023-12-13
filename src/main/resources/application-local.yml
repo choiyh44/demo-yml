@@ -6,3 +6,4 @@ spring:
 sampleProperties:
   testKeyPerProfile: value local 
 
+debug: true

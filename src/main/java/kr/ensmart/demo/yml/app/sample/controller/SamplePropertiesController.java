@@ -1,4 +1,4 @@
-package kr.ensmart.demo.yml.app.controller;
+package kr.ensmart.demo.yml.app.sample.controller;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import kr.ensmart.demo.yml.app.dto.SampleProperties;
-import kr.ensmart.demo.yml.app.dto.SamplePropertiesResponse;
+import kr.ensmart.demo.yml.app.sample.dto.SampleProperties;
+import kr.ensmart.demo.yml.app.sample.dto.SamplePropertiesResponse;
 
 @RestController
 @RequestMapping("/sampleProperties")

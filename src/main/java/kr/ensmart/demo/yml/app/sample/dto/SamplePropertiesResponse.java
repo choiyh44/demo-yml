@@ -1,4 +1,4 @@
-package kr.ensmart.demo.yml.app.dto;
+package kr.ensmart.demo.yml.app.sample.dto;
 
 import lombok.Getter;
 import lombok.Setter;

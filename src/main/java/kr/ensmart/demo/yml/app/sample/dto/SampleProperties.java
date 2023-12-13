@@ -1,4 +1,4 @@
-package kr.ensmart.demo.yml.app.dto;
+package kr.ensmart.demo.yml.app.sample.dto;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
